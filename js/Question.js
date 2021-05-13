@@ -37,9 +37,9 @@ class Question {
 
     this.input1.position(150, 230);
     this.input2.position(350, 230);
-    this.button.position(290, 300);
+    this.button.position(295, 300);
     this.button.style('background', '#EF949B');
-    this.reset.position(750, 350);
+    this.reset.position(900, 350);
     this.reset.style('background', '#EF949B');
      
     this.button.mousePressed(()=>{
